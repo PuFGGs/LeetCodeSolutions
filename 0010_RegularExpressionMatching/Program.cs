@@ -6,7 +6,13 @@ namespace _0010_RegularExpressionMatching
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Solution solution = new Solution();
+            Console.WriteLine("Needed Result : false | Output : {0}", solution.IsMatch("aa", "a"));
+            Console.WriteLine("Needed Result : true | Output : {0}", solution.IsMatch("aa", "a*"));
+            Console.WriteLine("Needed Result : true | Output : {0}", solution.IsMatch("ab", ".*"));
+            Console.WriteLine("Needed Result : true | Output : {0}", solution.IsMatch("aab", "c*a*b"));
+            Console.WriteLine("Needed Result : true | Output : {0}", solution.IsMatch("mississippi", "mis*is*ip*."));
+            Console.WriteLine("Needed Result : false | Output : {0}", solution.IsMatch("mississippi", "mis*is*p*."));
         }
     }
 }
