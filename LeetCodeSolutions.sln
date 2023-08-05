@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001_TwoSum", "0001_TwoSum\0001_TwoSum.csproj", "{41CAACB3-8663-4C64-8BEB-E1CD66A9113A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001_TwoSum", "0001_TwoSum\0001_TwoSum.csproj", "{41CAACB3-8663-4C64-8BEB-E1CD66A9113A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002_AddTwoNumbers", "0002_AddTwoNumbers\0002_AddTwoNumbers.csproj", "{C5A68B90-484E-4CD2-98B0-D09E2D981378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0002_AddTwoNumbers", "0002_AddTwoNumbers\0002_AddTwoNumbers.csproj", "{C5A68B90-484E-4CD2-98B0-D09E2D981378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003_LongestSubstringWithoutRepeatingCharacters", "0003_LongestSubstringWithoutRepeatingCharacters\0003_LongestSubstringWithoutRepeatingCharacters.csproj", "{5EB6BB55-17E0-4345-8DFF-F54948237B30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0003_LongestSubstringWithoutRepeatingCharacters", "0003_LongestSubstringWithoutRepeatingCharacters\0003_LongestSubstringWithoutRepeatingCharacters.csproj", "{5EB6BB55-17E0-4345-8DFF-F54948237B30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0004_MedianofTwoSortedArrays", "0004_MedianofTwoSortedArrays\0004_MedianofTwoSortedArrays.csproj", "{F2B19A26-897E-4A59-A048-4BACF541DD8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0004_MedianofTwoSortedArrays", "0004_MedianofTwoSortedArrays\0004_MedianofTwoSortedArrays.csproj", "{F2B19A26-897E-4A59-A048-4BACF541DD8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0005_LongestPalindromicSubstring", "0005_LongestPalindromicSubstring\0005_LongestPalindromicSubstring.csproj", "{48C1A01F-62EC-4837-8980-B5A44A24D8E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0005_LongestPalindromicSubstring", "0005_LongestPalindromicSubstring\0005_LongestPalindromicSubstring.csproj", "{48C1A01F-62EC-4837-8980-B5A44A24D8E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0006_ZigzagConversion", "0006_ZigzagConversion\0006_ZigzagConversion.csproj", "{DBF9B29A-2AB9-4314-9A02-6658577DC56B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0006_ZigzagConversion", "0006_ZigzagConversion\0006_ZigzagConversion.csproj", "{DBF9B29A-2AB9-4314-9A02-6658577DC56B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0007_ReverseInteger", "0007_ReverseInteger\0007_ReverseInteger.csproj", "{2D9C2EB3-110B-41B2-968B-3EFAB7E6089D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0007_ReverseInteger", "0007_ReverseInteger\0007_ReverseInteger.csproj", "{2D9C2EB3-110B-41B2-968B-3EFAB7E6089D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0008_StringtoInteger(atoi)", "0008_StringtoInteger(atoi)\0008_StringtoInteger(atoi).csproj", "{14519FDD-FDEF-4B8F-9174-A3409B71F8B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0008_StringtoInteger(atoi)", "0008_StringtoInteger(atoi)\0008_StringtoInteger(atoi).csproj", "{14519FDD-FDEF-4B8F-9174-A3409B71F8B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009_PalindromeNumber", "0009_PalindromeNumber\0009_PalindromeNumber.csproj", "{07EC1B3A-C10D-426D-9FD0-6EAA9E259C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009_PalindromeNumber", "0009_PalindromeNumber\0009_PalindromeNumber.csproj", "{07EC1B3A-C10D-426D-9FD0-6EAA9E259C91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0010_RegularExpressionMatching", "0010_RegularExpressionMatching\0010_RegularExpressionMatching.csproj", "{AB397E2C-68F8-4DAF-A859-4C1D0D30EAB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0010_RegularExpressionMatching", "0010_RegularExpressionMatching\0010_RegularExpressionMatching.csproj", "{AB397E2C-68F8-4DAF-A859-4C1D0D30EAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0050_Pow(x, n)", "0050_Pow(x, n)\0050_Pow(x, n).csproj", "{07BAE4B3-1F43-445E-8E63-65EF27E952AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{AB397E2C-68F8-4DAF-A859-4C1D0D30EAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB397E2C-68F8-4DAF-A859-4C1D0D30EAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB397E2C-68F8-4DAF-A859-4C1D0D30EAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BAE4B3-1F43-445E-8E63-65EF27E952AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BAE4B3-1F43-445E-8E63-65EF27E952AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BAE4B3-1F43-445E-8E63-65EF27E952AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BAE4B3-1F43-445E-8E63-65EF27E952AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
